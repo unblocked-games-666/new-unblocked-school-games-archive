@@ -13,5 +13,5 @@ Here are the downloadable game archive packs:
 | 7 | unblocked-games7.zip | [Download](https://github.com/unblocked-games-666/unblocked-games-666.github.io/raw/refs/heads/main/ubg_game_archive/unblocked-games7.zip) |
 | 8 | unblocked-games8.zip | [Download](https://github.com/unblocked-games-666/unblocked-games-666.github.io/raw/refs/heads/main/ubg_game_archive/unblocked-games8.zip) |
 
-> 💾 Each ZIP contains a collection of HTML5 unblocked games.  
+> 💾 Each ZIP contains a collection of 500+ HTML5 unblocked games.  
 > Unpack and host them locally or on your preferred static site.
